@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22887152-5c6c-4c11-9bd7-01234f27913b" name="Changes" comment="Feat: project setup">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="drae69j6" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2hluwwTT3mQxqLBCCsNRuDnzWZz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/kotlinplayground/interfaces" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/kotlinplayground/classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.ExploreExceptionKt">
+    <configuration name="kotlin-playground" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CollectionOperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlinplayground.collections.CollectionOperationsKt" />
+      <module name="kotlin-playground.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlinplayground.collections.CollectionsKt" />
+      <module name="kotlin-playground.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExploreExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlinplayground.exceptions.ExploreExceptionKt" />
+      <module name="kotlin-playground.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExploreLambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlinplayground.collections.ExploreLambdaKt" />
+      <module name="kotlin-playground.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlinplayground.nulls.NullsKt" />
+      <module name="kotlin-playground.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.kotlin-playground" />
+      <item itemvalue="Kotlin.CollectionOperationsKt" />
+      <item itemvalue="Kotlin.ExploreExceptionKt" />
+      <item itemvalue="Kotlin.CollectionsKt" />
+      <item itemvalue="Kotlin.ExploreLambdaKt" />
+      <item itemvalue="Kotlin.NullsKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ExploreExceptionKt" />
+        <item itemvalue="Kotlin.CollectionOperationsKt" />
+        <item itemvalue="Kotlin.ExploreLambdaKt" />
+        <item itemvalue="Kotlin.CollectionsKt" />
+        <item itemvalue="Kotlin.NullsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22887152-5c6c-4c11-9bd7-01234f27913b" name="Changes" comment="" />
+      <created>1718181229454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718181229454</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Feat: learning basics with :&#10;- Conditions&#10;- Loops and range&#10;- Variable&#10;- Functions">
+      <created>1719153256485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153256485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feat: learning classes with :&#10;- Data Classes&#10;- Object&#10;- Enums&#10;- Inheritance">
+      <created>1719153355228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153355228</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feat: learning about collection with :&#10;- List&#10;- Map&#10;- Set&#10;- Lambdas exploration">
+      <created>1719153460261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153460261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feat: dealing with exceptions">
+      <created>1719153477415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153477415</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feat: dealing with interface and conflicting ones">
+      <created>1719153498393</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153498393</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feat: adding data helper file">
+      <created>1719153526989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153526989</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feat: adding null intro and hello into">
+      <created>1719153558214</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153558214</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feat: project setup">
+      <created>1719153588977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719153588977</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: learning basics with :&#10;- Conditions&#10;- Loops and range&#10;- Variable&#10;- Functions" />
+    <MESSAGE value="Feat: learning classes with :&#10;- Data Classes&#10;- Object&#10;- Enums&#10;- Inheritance" />
+    <MESSAGE value="Feat: learning about collection with :&#10;- List&#10;- Map&#10;- Set&#10;- Lambdas exploration" />
+    <MESSAGE value="Feat: dealing with exceptions" />
+    <MESSAGE value="Feat: dealing with interface and conflicting ones" />
+    <MESSAGE value="Feat: adding data helper file" />
+    <MESSAGE value="Feat: adding null intro and hello into" />
+    <MESSAGE value="Feat: project setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: project setup" />
+  </component>
+</project>
